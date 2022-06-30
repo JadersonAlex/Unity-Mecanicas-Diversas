@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: cdba1b2fbfb3d354e89b8d814b7bbd12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 328195033880691650
+    second: flag_red_green_0
+  - first:
+      213: -1124880810554425291
+    second: flag_red_green_1
+  - first:
+      213: -5954559548498882980
+    second: flag_red_green_2
+  - first:
+      213: -2792429995318917522
+    second: flag_red_green_3
+  - first:
+      213: -2358821073825810279
+    second: flag_red_green_4
+  - first:
+      213: 132173763347966430
+    second: flag_red_green_5
+  - first:
+      213: 7823426663991763566
+    second: flag_red_green_6
+  - first:
+      213: 2058138686268120570
+    second: flag_red_green_7
+  - first:
+      213: -2329167057695280566
+    second: flag_red_green_8
+  - first:
+      213: -6573476720979681919
+    second: flag_red_green_9
+  - first:
+      213: -7804427056589079899
+    second: flag_red_green_10
+  - first:
+      213: -2166145474391159135
+    second: flag_red_green_11
+  - first:
+      213: -8323101481464888460
+    second: flag_red_green_12
+  - first:
+      213: 1999719864779891769
+    second: flag_red_green_13
+  - first:
+      213: -225169838138685256
+    second: flag_red_green_14
+  - first:
+      213: 6689373330691386845
+    second: flag_red_green_15
+  - first:
+      213: -8940631289633980147
+    second: flag_red_green_16
+  - first:
+      213: 2655964608275221055
+    second: flag_red_green_17
+  - first:
+      213: 1270521780746141714
+    second: flag_red_green_18
+  - first:
+      213: 3268975758928832510
+    second: flag_red_green_19
+  - first:
+      213: 6736965654010580112
+    second: flag_red_green_20
+  - first:
+      213: -8113417141321394675
+    second: flag_red_green_21
+  - first:
+      213: 270326627693958187
+    second: flag_red_green_22
+  - first:
+      213: -9022807273917813798
+    second: flag_red_green_23
+  - first:
+      213: -7197165275464718403
+    second: flag_red_green_24
+  - first:
+      213: -2532535897149362187
+    second: flag_red_green_25
+  - first:
+      213: -476145674673889037
+    second: flag_red_green_26
+  - first:
+      213: 7703945257277175123
+    second: flag_red_green_27
+  - first:
+      213: -1304252428280370802
+    second: flag_red_green_28
+  - first:
+      213: -1267595704189374157
+    second: flag_red_green_29
+  - first:
+      213: -969300603086572987
+    second: flag_red_green_30
+  - first:
+      213: -3007098588792722347
+    second: flag_red_green_31
+  - first:
+      213: 683208907719487095
+    second: flag_red_green_32
+  - first:
+      213: 8499397809040269571
+    second: flag_red_green_33
+  - first:
+      213: -4308551866869848559
+    second: flag_red_green_34
+  - first:
+      213: 3216477964711864571
+    second: flag_red_green_35
+  - first:
+      213: 7730503113209072101
+    second: flag_red_green_36
+  - first:
+      213: -2286298652898291819
+    second: flag_red_green_37
+  - first:
+      213: -4777617004362380500
+    second: flag_red_green_38
+  - first:
+      213: -460427999797442603
+    second: flag_red_green_39
+  - first:
+      213: -6345390048807250616
+    second: flag_red_green_40
+  - first:
+      213: -2861916188082236237
+    second: flag_red_green_41
+  - first:
+      213: 1987621688638977040
+    second: flag_red_green_42
+  - first:
+      213: 6587127188327520875
+    second: flag_red_green_43
+  - first:
+      213: -2261446157562354003
+    second: flag_red_green_44
+  - first:
+      213: -4095950420011315194
+    second: flag_red_green_45
+  - first:
+      213: -3463210541186854782
+    second: flag_red_green_46
+  - first:
+      213: -9147056956874467436
+    second: flag_red_green_47
+  - first:
+      213: 7424495331647983628
+    second: flag_red_green_48
+  - first:
+      213: 1826175457730107229
+    second: flag_red_green_49
+  - first:
+      213: 1146124106204158626
+    second: flag_red_green_50
+  - first:
+      213: -7005027823781614778
+    second: flag_red_green_51
+  - first:
+      213: 7831094049519142315
+    second: flag_red_green_52
+  - first:
+      213: -8904715488488663837
+    second: flag_red_green_53
+  - first:
+      213: 2419705955728402945
+    second: flag_red_green_54
+  - first:
+      213: -4808010571223910779
+    second: flag_red_green_55
+  - first:
+      213: 163161344211079119
+    second: flag_red_green_56
+  - first:
+      213: -1395055945945122484
+    second: flag_red_green_57
+  - first:
+      213: 4002095355016147780
+    second: flag_red_green_58
+  - first:
+      213: 5334681801672555666
+    second: flag_red_green_59
+  - first:
+      213: 804872827822822776
+    second: flag_red_green_60
+  - first:
+      213: 4310626190668785308
+    second: flag_red_green_61
+  - first:
+      213: -6185277453318224508
+    second: flag_red_green_62
+  - first:
+      213: -4622259351287763161
+    second: flag_red_green_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flag_red_green_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 253
+        width: 107
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3818bf4abfd8400800000000000000
+      internalID: 328195033880691650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 252
+        width: 107
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300048dcde9360f0800000000000000
+      internalID: -1124880810554425291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 107
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e40d5a3a72d5da0800000000000000
+      internalID: -5954559548498882980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 253
+        width: 107
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ced4d6bb4f39d0800000000000000
+      internalID: -2792429995318917522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 107
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99838ed1bb8c34fd0800000000000000
+      internalID: -2358821073825810279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 107
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96bf4665395d100800000000000000
+      internalID: 132173763347966430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 107
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626c81c915629c60800000000000000
+      internalID: 7823426663991763566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_red_green_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3
+        width: 107
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd108d0b3aff8c10800000000000000
+      internalID: 2058138686268120570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65d2869d69d329746a4301b29e9d1290
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
